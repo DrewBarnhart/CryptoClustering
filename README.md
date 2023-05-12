@@ -18,3 +18,6 @@
 
 
 <img width="899" alt="image" src="https://github.com/DrewBarnhart/CryptoClustering/assets/116226080/8ff12bc0-2858-4677-bfa3-04b76b1ad90a">
+
+<img width="841" alt="image" src="https://github.com/DrewBarnhart/CryptoClustering/assets/116226080/2ce2d845-7fc0-4409-9896-58ed297e8413">
+
