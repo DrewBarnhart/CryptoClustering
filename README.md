@@ -1,5 +1,14 @@
 # CryptoClustering
 
+##Credit Risk Analysis Report
+
+1. An overview of the analysis: Explain the purpose of this analysis.
+
+2. The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
+
+3. A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning
+
+
 ### Depicted below are the corresponding images to the Jupyter Notebook
 
 <img width="664" alt="image" src="https://github.com/DrewBarnhart/CryptoClustering/assets/116226080/efec28bc-03f4-4bb8-b54a-bf7fccd37c74">
